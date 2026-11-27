@@ -1,0 +1,17 @@
+.secrets
+*.key
+tmp/
+captures/
+research-key.txt
+__pycache__/
+*.pyc
+.vs/
+Debug/
+x64/
+*.user
+*.obj
+*.pdb
+*.ilk
+*.dll
+*.exe
+*.log
